@@ -4,8 +4,8 @@ import "./App.css"
 import SearchAppBar from './components/SearchAppBar'
 import JobsCard from './components/JobsCard'
 import jobs from "./jobs.json"
-import { Container, Grid, Pagination, Box } from '@mui/material'
-import { styled } from "@mui/material/styles";
+import { Grid, Pagination, Box } from '@mui/material'
+
 
 
 function App() {

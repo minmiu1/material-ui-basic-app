@@ -13,7 +13,6 @@ export default function JobsCard({ job }) {
   const CardStyle = styled(Card)(({ theme }) => ({
     boxShadow: "none",
     border: "1px solid black",
-    width: "100%",
     width: "300px",
     height: "240px",
     margin: "auto",
